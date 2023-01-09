@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorchSharpLightning.Lite", "TorchSharpLightning.Lite\TorchSharpLightning.Lite.csproj", "{2EEA3CBD-AEEE-4842-8CF7-671AF38CB611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorchSharpLightning.Utilities", "TorchSharpLightning.Utilities\TorchSharpLightning.Utilities.csproj", "{293E533F-AE8A-4605-8DF8-31C69F4A7B94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EEA3CBD-AEEE-4842-8CF7-671AF38CB611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEA3CBD-AEEE-4842-8CF7-671AF38CB611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEA3CBD-AEEE-4842-8CF7-671AF38CB611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEA3CBD-AEEE-4842-8CF7-671AF38CB611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{293E533F-AE8A-4605-8DF8-31C69F4A7B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293E533F-AE8A-4605-8DF8-31C69F4A7B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293E533F-AE8A-4605-8DF8-31C69F4A7B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293E533F-AE8A-4605-8DF8-31C69F4A7B94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
